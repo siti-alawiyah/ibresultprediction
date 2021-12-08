@@ -71,11 +71,20 @@ As the predicted grades given to the students are from a teacher's professional 
 •	year to year variations
 
 # Data Dictionary
-* HL = Higher Level
-* SL = Standard Level
-* Example: BIHL = Biology Higher Level
 
-| SetCode | Subject Name |
+
+| Column name | Meaning |
+| ------ | ------ |
+| StudentID | ID of the student |
+| Year | Year of the data |
+| Std | Standard of subject. HL = Higher Level, SL = Standard Level. <br>Example: BIHL = Biology Higher Level |
+| Teacher | Initials of teacher that teaches that subject |
+| ATL | Grade given for Attitude to Learning. <br>Example: BI ATL =  Attitude to Learning grade given for Biology|
+| Compl. Of Work | Grade given for Completion of Work. <br>Example: Bi Compl. Of Work = Completion of Work grade given for Biology |
+| Sub Achievement | Grade given for Subject Achievement. <br>Example: Bi Sub Achievement = Subject Achievement grade for Biology |
+
+
+| Subject SetCode | Subject Name |
 | ------ | ------ |
 | BI | Biology |
 | BM | Business Management |
