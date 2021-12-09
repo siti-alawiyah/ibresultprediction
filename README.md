@@ -72,6 +72,9 @@ As the predicted grades given to the students are from a teacher's professional 
 
 # Data Dictionary
 
+#### Predicted Grade: Predicted Grade given by teacher for Mathematics subject
+#### Actual Grade: Actual IB grade given for Mathematics after taking into consideration their final paper
+#### Scaled Total: Marks Awarded for Mathematics. Max mark is 100
 
 | Column name | Meaning |
 | ------ | ------ |
