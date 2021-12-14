@@ -70,6 +70,8 @@ As the predicted grades given to the students are from a teacher's professional 
 
 •	year to year variations
 
+### Since the columns: Pedicted Grade, Actual Grade, Scaled Total was given only for Mathematics subject, Mathematics was used for EDA and modelling part.
+
 # Data Dictionary
 
 #### Predicted Grade: Predicted Grade given by teacher for Mathematics subject
