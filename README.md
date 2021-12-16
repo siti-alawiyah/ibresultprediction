@@ -129,9 +129,13 @@ Throughout the years, whenever teachers give a prediction grade of 7, some will 
 
 | Results| Linear Regression | Ridge Regression | Lasso Regression | Teacher Prediction |
 | ------ | ------ | ------ | ------ | ------ |
-| Train Result| 1 | 2 | 3 | NA |
-| Test Result| 1 | 2 | 3 | NA |
-| RMSE| 1 | 2 | 3 | 4 |
-| R2 | 1 | 2 | 3 | NA |
+| Train Result| 0.6871 | 0.6861 | 0.6862 | NA |
+| Test Result| 0.6242 | 0.6289 | 0.6227 | NA |
+| RMSE| 0.7189 | 0.7203 | 0.7214 | 0.8102 |
+| R2 | 0.6242 | 0.6289 | 0.6226 | NA |
  
 # Conclusion and Recommendations
+
+* ridge regression is the slightly better model compared the rest
+* prediction errors given by machine learning model is much lower compared to that by a human
+* Machine Learning models can predict the grades of students
