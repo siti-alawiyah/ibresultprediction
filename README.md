@@ -1,4 +1,4 @@
-# International Baccalaurate Diploma Program
+# International Baccalaurate Diploma Program 
 
 The International Baccalaureate Organization (known as the IB) offers four high-quality
 and challenging educational programmes for a worldwide community of schools, aiming
@@ -54,21 +54,8 @@ Report card grades sometimes involve the marking of assessment pieces that will 
 # Problem Statement
 As the predicted grades given to the students are from a teacher's professional point of view, as part of the school research team, I have been tasked to:
 
-1.	Create a model in predicting the student's IB grade (subject) and compare it to their actual final IB Grades.
+Create a model in predicting the student's IB grade (subject) and compare it to their actual final IB Grades.
 
-2.	Exploratory Data Analysis areas to look at: 
-
-•	how accurate our teacher’s predicted grade to their actual IB grade?
-
-•	factors or insights that contributes to the results 
-
-•	what are the important features that affects their IB results
-
-•	any areas of improvements?
-
-•	what other insights the data can give?
-
-•	year to year variations
 
 ### Since the columns: Pedicted Grade, Actual Grade, Scaled Total was given only for Mathematics subject, Mathematics was used for EDA and modelling part.
 
