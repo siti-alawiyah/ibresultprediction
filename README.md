@@ -114,6 +114,12 @@ Create a model in predicting the student's IB grade (subject) and compare it to 
 
 # Exploratory Data Analysis
 
+Throughout the years, whenever teachers give a prediction grade of 7, some will get an actual IB grade of 6 as shown in the diagrams below. It is equally important to note that students need to perform well for their final paper to maintain their grade.
+
+![](https://github.com/siti-alawiyah/ibresultprediction/blob/main/Pics/2020.PNG)
+![](https://github.com/siti-alawiyah/ibresultprediction/blob/main/Pics/2019.PNG)
+![](https://github.com/siti-alawiyah/ibresultprediction/blob/main/Pics/2018.PNG)
+![](https://github.com/siti-alawiyah/ibresultprediction/blob/main/Pics/2017.PNG)
 
 
 # Modelling Results
