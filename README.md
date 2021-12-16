@@ -119,10 +119,26 @@ As the predicted grades given to the students are from a teacher's professional 
 | TOC | Theory of Knowledge (Chinese) |
 | VAR | Visual Arts |
 
+# Data Cleaning
+
+* Columns that have Std, Teacher: given NA for empty data as students did not take the subject
+* Columns that have grades are given 0 to mean that students did not take the subject
+* these empty rows are dropped before modelling.
+
 # Exploratory Data Analysis
+
+
 
 # Modelling Results
 
-2 models were used to do this regression problem. Linear Regression and RandomForestRegressor was used.
+3 different models was used: Linear Regression, Ridge Regression with hyperparameter tuning, Lasso Regression with hyperparameter tuning
 
+
+| Results| Linear Regression | Ridge Regression | Lasso Regression | Teacher Prediction |
+| ------ | ------ | ------ | ------ | ------ |
+| Train Result| 1 | 2 | 3 | NA |
+| Test Result| 1 | 2 | 3 | NA |
+| RMSE| 1 | 2 | 3 | 4 |
+| R2 | 1 | 2 | 3 | NA |
+ 
 # Conclusion and Recommendations
